@@ -1,0 +1,19 @@
+
+/*{
+	"nombre": "andrea",
+	"apellido":"cabrera",
+	"edad":"22",
+	"fechaNacimiento":"15/07/96",
+	"email":"jhkaha@gmail.com",
+	"hobbies":[
+      "escuchar musica",
+      "shopping",
+      "dormir",
+      "comer"
+	],
+	"mascota":{
+		"nombre": "sr. bigotes",
+		"tipo":"perro",
+		"edad":"2 meses"
+	}
+}*/
